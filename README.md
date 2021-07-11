@@ -30,3 +30,7 @@ For cysts detection we use [YOLOv5 Pytorch](https://github.com/ultralytics/yolov
 **Prediction Examples**
 
 ![Preds](experiments/exp-001-YOLOv5_Detection/best_results/test_batch0_pred.jpg)
+
+### Model
+
+Best model is stored [here](https://drive.google.com/drive/u/1/folders/1fiwJuks5jc9XvG3boTwxGVcHSqayLjTe).
